@@ -13,6 +13,4 @@
 ![](gui/checkout.png)
 
 
-## Tutorial
 
-[Dennis Ivy](https://www.youtube.com/playlist?list=PL-51WBLyFTg0omnamUjL1TCVov7yDTRng)
